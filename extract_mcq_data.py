@@ -25,7 +25,7 @@ time.sleep(3)
 username = driver.find_element(By.ID, 'username')
 password = driver.find_element(By.ID, 'password')
 username.send_keys('cokereafor@sandtech.com')
-password.send_keys('Brilliant2468#')
+password.send_keys('***********')
 password.send_keys(Keys.RETURN)
 
 # Wait for the next page to load after login
