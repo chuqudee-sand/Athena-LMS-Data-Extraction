@@ -11,7 +11,6 @@ This project is a Python script that uses Selenium and BeautifulSoup to extract 
 - [Usage](#usage)
 - [Data Fields](#data-fields)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
