@@ -35,6 +35,7 @@ This project is a Python script that uses Selenium and BeautifulSoup to extract 
    ```
 2. **Download Chrome WebDriver**:
    - [ChromeDriver](https://sites.google.com/chromium.org/driver/) should match your Chrome browser version. Place the `chromedriver.exe` file in a known path (e.g., `chromedriver-win64/chromedriver.exe`).
+   - You can download the chrome driver [here](https://drive.google.com/file/d/1XSIN3yk7wBvxJpByJkGUeyuc7gh0IeJe/view?usp=sharing) if your chrome browser version is 129.0 and above
 
 3. **Configure LMS Login Credentials**:
    - Open the script and replace the placeholders with your Athena LMS username and password:
