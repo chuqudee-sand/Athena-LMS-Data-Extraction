@@ -70,5 +70,8 @@ The extracted data contains the following columns:
 
 ## Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+- Chukwudi Okereafor
+- Kayode Balogun
+- Byron Neji
+- Bodine Mazibuko
 
